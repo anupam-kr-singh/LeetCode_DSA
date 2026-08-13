@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/anupam-kr-singh/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/anupam-kr-singh/LeetCode_DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
