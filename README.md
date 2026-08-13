@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/anupam-kr-singh/LeetCode_DSA/tree/master/0134-gas-station) |
 | [1301-number-of-paths-with-max-score](https://github.com/anupam-kr-singh/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupam-kr-singh/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/anupam-kr-singh/LeetCode_DSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
